@@ -5,6 +5,10 @@
 Laravel serves as a REST API that has as single endpoint. That endpoint returns a response which is fetched from the frontend. 
 Most of the game logic is done on the client side, backend just returns the used data.
 
+
+https://user-images.githubusercontent.com/82293948/206909139-5f1cfa3a-433a-465e-bbcc-ff6ebea7e74a.mp4
+
+
 ## Commands
 
 ```bash
