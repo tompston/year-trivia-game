@@ -1,0 +1,5 @@
+/* place for custom / new css variables */
+:root {}
+
+[data-theme="dark"],
+[data-theme="dark"] :root {}
